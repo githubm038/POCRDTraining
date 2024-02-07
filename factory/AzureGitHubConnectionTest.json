@@ -1,0 +1,9 @@
+{
+	"name": "AzureGitHubConnectionTest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d85ea2f-6389-47fe-a02f-3045b0587cc6",
+		"tenantId": "45f95e3a-b725-490d-83f1-a8c18a487a7a"
+	}
+}
